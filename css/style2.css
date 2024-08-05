@@ -16,7 +16,7 @@
 
 
 /*** Spinner ***/
-#spinner {
+/* #spinner {
     opacity: 0;
     visibility: hidden;
     transition: opacity .5s ease-out, visibility 0s linear .5s;
@@ -28,7 +28,7 @@
     visibility: visible;
     opacity: 1;
 }
-
+ */
 
 /*** Button ***/
 .btn {
@@ -146,7 +146,7 @@
     align-items: center;
     justify-content: center;
     text-align: center;
-    background: rgba(0, 29, 35, .8);
+    background: rgba(0, 29, 35, 0.61);
     z-index: 1;
 }
 
